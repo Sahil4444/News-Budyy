@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/News-Buddy/static/js/main.abe4f5f5.js",
+    "static/media/spinner.gif": "/News-Buddy/static/media/spinner.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/News-Buddy/index.html",
+    "main.abe4f5f5.js.map": "/News-Buddy/static/js/main.abe4f5f5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.abe4f5f5.js"
+  ]
+}
